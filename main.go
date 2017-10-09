@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	fmt.Println("Usage: %s [params...]", os.Args[0])
+	fmt.Printf("Usage: %s [params...]\n", os.Args[0])
 }
